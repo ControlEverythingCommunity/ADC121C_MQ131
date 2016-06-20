@@ -1,10 +1,10 @@
-[![ADC121C_MQ131](ADC121C_I2CGAS_MQ3.png)](https://www.controleverything.com/content/Gas?sku=ADC121C_I2CGAS_MQ131)
+[![ADC121C_MQ131](ADC121C_I2CGAS_MQ131.png)](https://www.controleverything.com/content/Gas?sku=ADC121C_I2CGAS_MQ131)
 # ADC121C_MQ131
-ADC121C_MQ131 Gas Sensor.
+ADC121C_MQ131 Ozone Gas Sensor.
 
 The ADC121C_MQ131 Gas sensor makes it easy to monitor ozone concentration levels using our I²C Mini Module form factor.
 
-This Device is available from ControlEverything.com [SKU: ADC121C_I2CGAS_MQ3]
+This Device is available from ControlEverything.com [SKU: ADC121C_I2CGAS_MQ131]
 
 https://www.controleverything.com/content/Gas?sku=ADC121C_I2CGAS_MQ131
 
