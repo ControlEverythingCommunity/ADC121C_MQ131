@@ -76,4 +76,4 @@ Run the c program.
 $>./ADC121C_MQ131
 ```
 
-#####The code output is the alcohol concentration in mg/l.
+#####The code output is the ozone concentration in ppm.
